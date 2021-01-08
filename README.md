@@ -1,5 +1,6 @@
 # crossChecknames
 
+This pyhton script is mainly to cross check two name lists. Used mainly for our club to check for "ghost participants".
 ## How to use.
 
 1. Download.
